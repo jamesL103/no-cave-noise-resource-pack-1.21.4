@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Removes all cave noises from the game",
+    "pack_format": 46,
+    "supported_formats": [
+      34,
+      61
+    ]
+  }
+}
